@@ -1,0 +1,6 @@
+apple:elma
+banana:muz
+mango:mango
+old:yaşlı
+honey:bal
+habit:alışkanlık
